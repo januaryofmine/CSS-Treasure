@@ -1,5 +1,5 @@
 # CSS-Treasure (2019)
-   A curated list of resources for learn CSS.
+   A curated list of resources for learn and practice CSS.
    
 ## A/ List resources specialize in CSS
 ###     1. CSS Tricks: https://css-tricks.com/
