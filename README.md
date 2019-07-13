@@ -9,6 +9,7 @@
 ###     6. Magic of CSS: https://adamschwartz.co/magic-of-css/
 ###     7. Learn Layout: https://learnlayout.com/
 
+##
 ## B/ List resources have good interaction, live code on browser for learn CSS
 ###     1. CSS Animations IO: https://css-animations.io/
 ###     2. Enjoy CSS: https://enjoycss.com/
@@ -20,6 +21,7 @@
 ###     8. Unfolding the Box Model: https://rupl.github.io/unfold/ 
 ###     9. CSS Animation Lab: https://cssanimationlab.com/ 
 
+##
 ## C/ List resources for learn Front-end
 ###     1. freeCodeCamp: https://learn.freecodecamp.org/
 ###     2. w3schools: https://www.w3schools.com/
@@ -28,7 +30,8 @@
 ###     5. Tutorialzine: https://tutorialzine.com/
 ###     6. Smashing Magazine: https://www.smashingmagazine.com/
 ###     7. Codepen: https://codepen.io/
-     
+
+##
 ## D/ List resources of others developers have already summarize for learn CSS
 ###     1. Front-end Handbook 2019: https://frontendmasters.com/books/front-end-handbook/2019/
 ###     2. Slant: https://www.slant.co/
